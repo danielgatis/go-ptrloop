@@ -1,8 +1,8 @@
+# go-ptrloop
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/danielgatis/go-ptrloop?style=flat-square)](https://goreportcard.com/report/github.com/danielgatis/go-ptrloop)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/danielgatis/go-ptrloop/master/LICENSE)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/danielgatis/go-ptrloop)
-
-# go-ptrloop
 
 A helper to iterate over unsafe pointers.
 
